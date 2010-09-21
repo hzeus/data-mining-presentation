@@ -1,9 +1,5 @@
 !SLIDE subsection
 # Data Mining Methoden #
-* Klassifikation: Entscheidungsbaeume
-* Clusterverfahren
-* Assoziationsanalyse: Warenkoerbe
-* Sequenzanalyse
 
 !SLIDE 
 # Assoziationsanalyse #
