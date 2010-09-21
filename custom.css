@@ -1,0 +1,22 @@
+.nested-list ol {
+	font-size: 3em;
+	list-style-type: decimal;
+	padding-left: 2em;
+}
+
+.nested-list ol ul {
+	list-style-type: disc;
+	padding-left: 0.5em;
+}
+
+p.big {
+	font-size: 3em;
+}
+
+.highlight {
+	color: red;
+}
+
+p.legend {
+	padding-top: 2em;
+}
