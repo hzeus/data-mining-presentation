@@ -1,18 +1,23 @@
 !SLIDE subsection
 # Data Mining Methoden #
-
-!SLIDE bullets incremental
-# Methoden #
 * Klassifikation: Entscheidungsbaeume
 * Clusterverfahren
 * Assoziationsanalyse: Warenkoerbe
 * Sequenzanalyse
 
-!SLIDE subsection
+!SLIDE 
 # Assoziationsanalyse #
+![assoziation.png](assoziation.png)
 
-!SLIDE full-page
-![amazon.png](amazon.png)
+!SLIDE center
+# Clustering #
+![cluster.png](cluster.png)
+
+!SLIDE center
+# Entscheidungsbäume #
+![tree.png](tree.png)
+
+
 
 !SLIDE subsection
 # Beispiel #
