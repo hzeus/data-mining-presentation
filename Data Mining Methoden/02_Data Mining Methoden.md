@@ -10,13 +10,12 @@
 ![cluster.png](cluster.png)
 
 !SLIDE center
-# Entscheidungsbäume #
+# Entscheidungsbaeume #
 ![tree.png](tree.png)
 
+!SLIDE center
+# <a href="http://technet.microsoft.com/de-de/library/ms175595.aspx">Weitere</a> #
 
-
-!SLIDE subsection
-# Beispiel #
 
 
 
