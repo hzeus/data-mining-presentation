@@ -10,7 +10,7 @@
 ![cluster.png](cluster.png)
 
 !SLIDE center
-# Entscheidungsbaeume #
+# Entscheidungsbäume #
 ![tree.png](tree.png)
 
 !SLIDE center
